@@ -12,7 +12,6 @@
     "inlineSourceMap": true
   },
   "include": [
-    "src/main/*.ts",
     "src/datatypes/*.ts",
     "data/**/*.ts",
     "src/lib.ext.ts",
