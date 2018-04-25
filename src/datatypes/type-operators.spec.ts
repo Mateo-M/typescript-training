@@ -63,7 +63,7 @@ describe('Object Types', () => {
 	describe('instanceof operator', () => {
 		// define your answers to make tests pass
 
-		fit('checks if operand 1 is a descendant of operand 2', () => {
+		it('checks if operand 1 is a descendant of operand 2', () => {
 			function Person(first, last, age?){
 				this.first = first;
 				this.last = last;
